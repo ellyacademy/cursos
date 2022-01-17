@@ -1,6 +1,6 @@
-# Mini curso de Elixir
+# Elixir na prática - Introdutório
 
-Neste minicurso você aprenderá na prática a criar um projeto de elixir e resolver problemas utilizando o paradigma funcional.
+Neste curso você aprenderá na prática a criar um projeto de elixir e resolver problemas utilizando o paradigma funcional.
 
 #### O que você vai aprder?
 
