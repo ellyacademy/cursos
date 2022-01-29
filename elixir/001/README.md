@@ -1,41 +1,42 @@
 # Elixir na prática - Introdutório
 
-Neste curso você aprenderá na prática a criar um projeto de elixir e resolver problemas utilizando o paradigma funcional.
 
-#### O que você vai aprder?
+Você já tentou aprender uma linguagem de programação nova e se viu perdido em meio a um monte de aulas ensinando cada detalhe da linguagem sem qualquer aplicação prática?
 
-- Como instalar o Elixir e [ASDF](https://github.com/asdf-vm/asdf).
-- Como utilizar o [Mix](https://hexdocs.pm/mix/Mix.html) para criar e testar projetos.
+Já tentou ler um livro sobre uma nova linguagem e ficou pedido sem nunca saber o motivo da existência de vários recursos da linguagem?
+
+Soa familiar?
+
+Eu criei esse curso para ser tudo aquilo que eu gostaria quando eu estava aprendendo elixir
+
+O curso “Elixir e programação funcional na prática” cobre os fundamentos do elixir em uma dinâmica em que você aprende de acordo com a necessidade de um problema que está tentando resolver.
+
+A melhor forma de aprender uma nova linguagem é resolvendo problemas com ela.
+
+Neste curso você será desafiado a criar um jogo interativo que é complexo o suficiente para que você possa explorar os fundamentos do elixir e mergulhar no paradigma de programação funcional.
+
+Comece sua evolução agora!
+
+Ao final do curso seu ambiente de desenvolvimento estará preparado para trabalhar com elixir e você saberá como criar e testar novos projetos com a ferramenta MIX.
+
+## Aprenda nesse curso:
+
+- Como utilizar o Mix para criar e testar projetos.
+
 - Como interagir com console exibindo e recuperando entrada de dados do usuário.
-- Como criar [módulos e funções](https://elixir-lang.org/getting-started/modules-and-functions.html).
-- O que são comportamentos e como usar (Behaviours).
-- Como utilizar funções anonimas.
-- Como utilizar [pattern matching](https://elixir-lang.org/getting-started/pattern-matching.html).
-- Como usar combinar pattern matching com [guards](https://hexdocs.pm/elixir/guards.html).
-- Como usar o operador [pipe |>](https://elixirschool.com/en/lessons/basics/pipe_operator).
+
+- Como criar módulos e funções.
+
+- Como utilizar pattern matching.
+
+- Como usar combinar pattern matching com guards.
+
+- Como usar o operador pipe.
+
 - Como criar funções recursivas.
+
 - Como criar e interagir com coleções.
+
 - Como controlar o fluxo de código com estruturas de decisão do elixir.
 
-#### Para quem é esse minicurso?
-Qualquer um, mesmo que iniciante, que já tenha conhecimento em programação e queira aprender elixir e o paradigma funcional.
-
-#### Antes de começar:
-Você precisa ter o elixir instalado no seu ambiente de desenvolvimento. Caso não tenha acompanhe esse [vídeo](https://youtu.be/TdjBev-il9w) no nosso canal que orienta a instalação de maneira adequada.
-
-## Desafio do curso
-
-### Jogo Adivinhar o número
-
-Vamos criar um jogo para adivinhação de números que tem três níveis de dificuldade. O primeiro nível será um número entre 1 e 10. O segundo será entre 1 e 100 e o terceiro será entre 1 e 1000.
-
-Nossa solução deve perguntar ao usuário, através do console, qual é o nível de dificuldade desejado e em seguida o computador deve escolher um número aleatório dentro do intervalo correspondente ao nível de dificuldade.
-Toda a vez que o jogador escolher um número o computador deve dar a ele uma dica indicando se o número é menor ou maior ao escolhido. O computador também deve contar o número de palpites feitos pelo jogador e exibir um comentário respeitando a seguinte regra:
-
-|Palpites| Mensagem|
-|--------|---------|
-| 1 | Você consegue mesmo ler mentes!|
-|2..4|Muito impressionante.|
-|5..6| Você consegue fazer melhor que isso!|
-|>7| Mais sorte na próxima.|
-
+Seja bem vindo(a) ao mundo da programação funcional!
